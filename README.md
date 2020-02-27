@@ -2,10 +2,11 @@
 Crypto Trading App
 
 after 6 weeks of research and pen testing the trading bot I choose openPGP / GnuPG as default
-encryption and decryption, all these hardware is compatible with flashcrasher so get prepired
+encryption and decryption, all these hardware is compatible with flashcrasher so ready
 and buy one of these keys.
 
 But I hope minimum 80% of you are still using Ledger Nano's
+
 
 |GnuPG Hardware Keys| tested    |   USB / attach    | En-/decypt|login|
 |---                |---        |---                |---        |---  |
