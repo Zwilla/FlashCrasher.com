@@ -17,7 +17,7 @@ But I hope minimum 80% of you are still using Ledger Nano's
 |Nitrokey Pro	    |    ✔      |	OTG1            |✔          |  ✔  |
 |Nitrokey Storage	|    ✔      |	OTG1            |✔          |  ✔  |
 |Secalot	        |    ✔      |	OTG1            |✔          |  ✔  |
-|VivoKey Flex One	|    ✔      |	implant / NFC*  |✔          |  ✔  |
+|VivoKey Flex One	|           |	implant / NFC*  |✔          |  ✔  |
 |YubiKey NEO	    |    ✔      |	OTG1            |✔          |  ✔  |
 |YubiKey 4	        |    ✔      |	OTG1            |✔          |  ✔  |
 |YubiKey 4 Nano	    |    ✔      |	OTG1            |✔          |  ✔  |
